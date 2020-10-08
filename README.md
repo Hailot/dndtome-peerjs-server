@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Hailot/dndtome-peerjs-server.svg?token=xT1ue64vcmex3JcsmvGC&branch=master](https://travis-ci.org/Hailot/dndtome-peerjs-server)
 # PeerServer: A server for PeerJS #
 
 PeerServer helps establishing connections between PeerJS clients. Data is not proxied through the server.
