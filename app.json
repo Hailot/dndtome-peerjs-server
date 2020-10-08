@@ -1,5 +1,5 @@
 {
-  "name": "PeerJS Server",
-  "description": "A server side element to broker connections between PeerJS clients.",
-  "website": "http://peerjs.com/"
+  "name": "DnDTome Peer Server",
+  "description": "A server side element to broker connections between DnDTome clients.",
+  "website": "https://darthamun.github.io/DnDTome-pwa/"
 }
